@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HypeFlow AI Pro - Enhanced Edition
 
 🚀 **The Ultimate AI-Powered Sports Card Investment Platform**
@@ -146,3 +147,6 @@ For support, email support@hypeflow.ai or create an issue in this repository.
 **Built with ❤️ for the sports card community**
 
 *The future of sports card investing is here.*
+=======
+# HypeFlowAIV2
+>>>>>>> f5da234f453f46aa0cc25d93c236e52183875ae9
