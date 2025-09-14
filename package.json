@@ -1,0 +1,39 @@
+{
+  "name": "hypeflow-ai-pro-enhanced",
+  "version": "2.0.0",
+  "description": "The Ultimate AI-Powered Sports Card Investment Platform - Enhanced Edition",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "build": "echo 'No build step required - static HTML file'",
+    "deploy": "echo 'Deploy index.html to your hosting service'"
+  },
+  "keywords": [
+    "sports-cards",
+    "trading-cards",
+    "ai",
+    "investment",
+    "ebay",
+    "grading",
+    "portfolio",
+    "market-analysis"
+  ],
+  "author": "HypeFlow AI Pro Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hypeflow-ai-enhanced.git"
+  },
+  "homepage": "https://yourusername.github.io/hypeflow-ai-enhanced",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
