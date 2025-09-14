@@ -23,9 +23,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/hypeflow-ai-enhanced.git"
+    "url": "https://github.com/donovanmckee29-prog/HypeFlowAIV2.git"
   },
-  "homepage": "https://yourusername.github.io/hypeflow-ai-enhanced",
+  "homepage": "https://hypeflow-ai-pro-enhanced.vercel.app",
   "engines": {
     "node": ">=14.0.0"
   },
