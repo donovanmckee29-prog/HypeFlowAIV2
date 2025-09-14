@@ -26,9 +26,6 @@
     "url": "https://github.com/donovanmckee29-prog/HypeFlowAIV2.git"
   },
   "homepage": "https://hypeflow-ai-pro-enhanced.vercel.app",
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "devDependencies": {},
   "dependencies": {},
   "browserslist": [
